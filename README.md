@@ -1,7 +1,13 @@
 # Project1_backup
 Backup repositry
+# link to pptx. https://docs.google.com/presentation/d/18RPDXQ212UUuZEEoMY39Cp6D9cDfUH2y/edit?usp=drive_link&ouid=108355929733190566863&rtpof=true&sd=true
+# link to csv file https://drive.google.com/file/d/1I_EWm3oJVCJHiKPN06X1PA1AfMaMIrHj/view?usp=drive_link
+# link from kaggle https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease
+# link to CDC data descriptor https://www.cdc.gov/brfss/annual_data/2020/pdf/overview-2020-508.pdf
 
-
+#https://matplotlib.org/stable/gallery/index.html ideas to stack 
+#https://stackoverflow.com/questions/61130168/stacked-bar-chart-in-matplotlib-how-to-code-with-lots-and-lots-of-categories how to stack
+#https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.unstack.html unstack 
 
 Halimas Readme
 <!-- # Project1-Halima
