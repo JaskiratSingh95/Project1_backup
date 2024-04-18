@@ -23,7 +23,8 @@ the data was located in Resources folder heart_2020_cleaned.csv
 •	physicalHealth vs HeartDisease
 •	GenHealth vs Heart disease
 
-
+Link for coding from the original CDC data form for Physical Health variable and General Health
+https://www.cdc.gov/brfss/annual_data/2020/pdf/codebook20_llcp-v2-508.pdf
 
 3, The result was showing bias because some populations were under represented inoverall sample.  the data was not collected equally 
 	So for each total race , physicalHealth, GenHealth tried to calculate the average of each Heartdisease=yes / Total
