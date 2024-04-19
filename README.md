@@ -28,13 +28,11 @@ Sub Questions:
 
 6) Does any co-morbidity (asthma, kidney disease, skin cancer, and diabities) play a role?
 
-Conduct a corelational and regression analysis.
-
 
 # link from kaggle https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease
 # link to CDC data descriptor https://www.cdc.gov/brfss/annual_data/2020/pdf/overview-2020-508.pdf
 
-
+**Lucas**
 Lucas' role was to tackle: Does age and gender play a role in heart disease?
 Data sorted and grouped
 Created charts -
@@ -44,7 +42,7 @@ Created summary description
 Put together the presentation. https://create.microsoft.com/en-us/template/futuristic-pitch-deck-82ab8cf7-ff25-4ec2-9c52-78be3d98c6ec
 Controlled board.
 
-
+**Halima**
 Halima's Role in this project was to find out :
 Does Race, General Health, Physical health play role for heart disease?
 
@@ -86,8 +84,7 @@ for physical Health analysis we can definitly say that heart disease can be affe
 the more you are fit the less you will be affected by heart disease
 also general health plays role on heart disease.
 
-	
-
+**Harshh**
 Harshh's main role in the project - To answer the sub-question: Does sleep time plays a role?
 
 First checked the documentation on the CDC website to understand how the sleep time data was collected.
@@ -107,8 +104,7 @@ Then, plotted a bar chart to visualize the analysis and finally, infered conclus
 - https://pubmed.ncbi.nlm.nih.gov/27647451/
 - https://www.bhf.org.uk/informationsupport/heart-matters-magazine/news/behind-the-headlines/sleep-and-heart-disease
 
-
-
+**Suad**
 Suad's part of the Project1- team 6 was to find out if lifetyles play a factor in heart disease :
 Question: Does Smoking, and Drinking alcohol play in heart disease?
 The data was located in Resources folder heart_2020_cleaned.csv
@@ -133,6 +129,14 @@ in the overall sample.
 Thus, Suad calculated total number of Alcohol Drinking and non Alcohol Drinking
 6. Plotted a pie chart for Alcohol drinkers who had heart disease, Alcohol drinkers  who had no 
 heart disease, Alcohol drinkers  who had heart disease, Alcohol drinkers  who had heart disease
+
+**Jaskirat**
+Problem statement Sub Question: Effect of co-morbidities: Asthma, Kidney Disease, Skin Cancer, Stroke, Diabetes on Heart Disease predictor.
+
+Comorbities increase the risk profile of Heart Disease in the given sample set
+
+Data wa cleaned, regrouped and otherwise formatted. the dataframes were then used to plot bar charts to see association between co-morbidities and heart disease variable
+
 # Conclusion
 Smoking Alcohol Drinking contribute immensely to heart disease, from the data, smokers and 
 alcohol drinkers who had heart disease were double that of smokers and alcohol drinkers who 
